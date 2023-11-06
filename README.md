@@ -57,11 +57,8 @@ It displays the following menu and select 2 for Website Attack Vectors:
 ### SET logs the information regarding the Google credentials
 
 ![image](https://github.com/Jayabharathi3/creating-a-backdoor-with-SET/assets/120367796/da11945c-1df9-4c98-ba1d-55a03152cad2)
-
 ![image](https://github.com/Jayabharathi3/creating-a-backdoor-with-SET/assets/120367796/36992613-5218-4e6c-a95c-b59ee06662bc)
 
-### SET logs the information in the xml file under /root/.set directory:
-![image](https://github.com/Jayabharathi3/creating-a-backdoor-with-SET/assets/120367796/3f959bb8-3c25-449a-a1ef-24dd7e8fba88)
 
 
 
